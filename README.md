@@ -10,4 +10,8 @@
 6. [ câu 14 ] (https://codepen.io/HoangTienTRan/pen/dyKVJNz)
 7. [ câu 15 ] (https://codepen.io/HoangTienTRan/pen/ZERxqYP)
 8. [ câu 16 ] (https://codepen.io/HoangTienTRan/pen/dyKeBmm)
-9. 
+9. [ câu 17 ] 
+10. [ câu 18 ] (https://codepen.io/HoangTienTRan/pen/yLEwZXW)
+11. [ câu 19 ] (https://codepen.io/HoangTienTRan/pen/VwdRgrW)
+12. [ câu 20 ] (https://codepen.io/HoangTienTRan/pen/dyKraJW)
+13. [ câu 21 ] (https://codepen.io/HoangTienTRan/pen/qBKvgxq)
